@@ -2,4 +2,11 @@ fastapi
 uvicorn[standard]
 sqlalchemy
 psycopg2-binary
+asyncpg
 pydantic
+google-generativeai
+chromadb
+sentence-transformers
+python-dotenv
+pytest
+python-multipart
